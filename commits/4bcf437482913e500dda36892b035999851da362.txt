@@ -1,0 +1,13 @@
+repository: serhii/azeroth-dashboard
+commit: 4bcf437482913e500dda36892b035999851da362
+date: 2026-09-28T06:19:22+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Header: Horde vs Alliance banner art with overlay layout (compressed)
+
+---
+Source code is NOT published on GitHub.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
