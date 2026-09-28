@@ -1,0 +1,13 @@
+repository: serhii/azeroth-dashboard
+commit: 0218bd70d1414d3eb2ed670147cdc1e91aebf5b0
+date: 2026-09-28T05:59:46+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Initial commit: Azeroth Control Panel (Flask dashboard, RU/EN, client download, accounts)
+
+---
+Source code is NOT published on GitHub.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
