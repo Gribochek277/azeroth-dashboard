@@ -1,0 +1,13 @@
+repository: serhii/azeroth-dashboard
+commit: 43dc8aba676199c97fda2289bc87177ddd7da4a0
+date: 2026-09-28T06:05:09+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Reskin: WoW Fan Site Kit theme (Folkard, parchment, local assets)
+
+---
+Source code is NOT published on GitHub.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
