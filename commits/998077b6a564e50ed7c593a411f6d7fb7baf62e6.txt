@@ -1,0 +1,13 @@
+repository: serhii/azeroth-dashboard
+commit: 998077b6a564e50ed7c593a411f6d7fb7baf62e6
+date: 2026-10-01T01:04:24+03:00
+author: serhii <serhii@localhost>
+branches: main
+
+message:
+Fix Start/Stop: gunicorn timeout 300, compose returncode checks, async rebuild
+
+---
+Source code is NOT published on GitHub.
+README (if any) is available in the repo root.
+If you need the code, email: sergeyalpatov1@gmail.com
